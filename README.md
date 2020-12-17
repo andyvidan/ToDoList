@@ -7,5 +7,5 @@
 <p>Your assignment is to make this application more visually appealing and more usable, to the best of your ability, without breaking any of the current functionality.</p>
 <p>At the very least, you will need to write a CSS stylesheet, as the app currently doesn't have one. You should consider also modifing or rewriting the HTML and/or JavaScript code to help improve usability or add new functionality. The existing JavaScript code is designed to be reasonably robust to changes in the structure of the HTML, provided that the existing element identifiers and classes are left alone and not used for any new elements.</p>
 <p>You may use any open source frameworks or libraries that you like.  (The existing code uses only vanilla JavaScript.)</p>
-<p>The app must render properly and run without bugs in the latest version of Google Chrome, Mozilla Firefox, and Microsoft Edge.  (If you're not running Windows 10, you can download a virtual machine with Microsoft Edge <a href="https://dev.modern.ie/tools/vms/windows/">here</a> and use it for testing.) Other browsers need not be supported.</p>
+<p>The app must render properly and run without bugs in the latest version of Google Chrome, Mozilla Firefox, and Microsoft Edge. Other browsers need not be supported.</p>
 <p>Good luck!</p>
